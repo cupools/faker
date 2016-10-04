@@ -1,4 +1,4 @@
-export const host = 'http://www.xicidaili.com/nn/%d'
+export const host = 'http://www.kuaidaili.com/free/inha/%d/'
 export const process = function(error, $) {
   if (error) {
     console.error(error)
@@ -9,7 +9,7 @@ export const process = function(error, $) {
   let host = ''
   let port = ''
 
-  $('#ip_list td').map((index, item) => {
+  $('#list td').map((index, item) => {
     let text = $(item).text()
 
     if (/^(\d+?\.){3}\d+?$/.exec(text)) {

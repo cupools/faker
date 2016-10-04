@@ -1,6 +1,6 @@
 ## proxy-collection
 
-An experience spider to collect proxy ip
+An experience spider to collect free proxy ip
 
 ## Getting Started
 
