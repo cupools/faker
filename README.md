@@ -98,4 +98,4 @@ faker
 ```
 
 ## Issues
-This is an simple repository and any question or ideas just task a look at the code directly or [open an issue](https://github.com/cupools/faker/issues). Fock your own repository is welcome as well.
+This is an simple repository and any question or ideas just task a look at the code directly or [open an issue](https://github.com/cupools/faker/issues). Fork your own repository is welcome as well.
