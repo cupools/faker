@@ -1,1 +1,1 @@
-module.exports = require('../lib/extend/kuaidaili').default
+module.exports = require('../lib/extend/kuaidaili')

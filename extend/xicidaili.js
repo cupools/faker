@@ -1,1 +1,1 @@
-module.exports = require('../lib/extend/xicidaili').default
+module.exports = require('../lib/extend/xicidaili')
