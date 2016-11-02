@@ -5,7 +5,7 @@ An experience spider to collect free proxy ip through extensible task.
 ## Getting Started
 
 ```bash
-$ npm install --save git+ssh@github.com:cupools/faker.git
+$ npm install --save cupools/faker
 ```
 
 ```js
